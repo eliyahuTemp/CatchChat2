@@ -626,3 +626,4 @@ const commandHandleEnum={
     return [substring1, substring2];
   }
   
+  export default SpamBot
